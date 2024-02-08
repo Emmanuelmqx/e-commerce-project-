@@ -1,0 +1,26 @@
+.product1{
+    border: 1px solid silver;
+    border-bottom: none;
+    border-top: none;
+    width: 250px;
+}
+.product1 img{
+    width: 100%;
+    height: 50vh;
+}
+.product1 h2{
+    text-align: center;
+}
+.product1 .ratings2{
+    margin-left: 70px;
+}
+.product1 .ratings2 i{
+    color: orange;
+}
+.product1 p{
+    margin-left: 60px;
+}
+.span1{
+    text-decoration: line-through;
+    color: gray;
+}
